@@ -1,4 +1,4 @@
-# terraform-cart-mutable-infra
+# terraform-frontend-mutable-infra
 
 ```
 This is the root module to create CART Infrastructure on EC2 with Mutable Approach.
