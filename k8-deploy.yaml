@@ -39,7 +39,7 @@ spec:
     - protocol: TCP
       port: 80          # port no that your service has to listern and this is the port you will access
       targetPort: 80  # Target port forwards the request to the backebd pod
-  type: LoadBalancer
+  #type: LoadBalancer
 
 
 ---
